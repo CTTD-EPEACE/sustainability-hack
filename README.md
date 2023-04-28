@@ -1,2 +1,2 @@
-# sustainability-hack
-Hackathon submission
+# idea
+ IDEA
