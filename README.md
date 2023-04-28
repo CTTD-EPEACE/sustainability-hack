@@ -2,6 +2,7 @@
 # sustainability-hack
 
 ---HELP COMMANDS---
+
 Adding file to a respository using the command line
 
 1. On your computer, move the file you'd like to upload to Github into the local directory that was created when you cloned the repository
