@@ -1,5 +1,5 @@
 TITLE: 
-    Efficiently consuming renewabl energy from One unique platform
+    Efficiently consuming renewable energy from One unique platform
 
 IDEA/SOLUTION: <br/>
      <p> In renewable energy sector, finding power consumption and carbon emmission from different energies are quite difficult when dealing with IT and Non-IT industries, Gated community residential area and government offices. </p><br/>
